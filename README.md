@@ -4,3 +4,7 @@
 - [*editor construct - platform create game*](https://editor.construct.net/)
 - [Assets Game](https://drive.google.com/drive/folders/1QhIt0y1W65p1kXXo-X6BMCvQfZRk_4DL)
 - [Play Game - Carrot Quest](https://www.thelogicgame.com/games/carrotpush/index.html)
+
+#### Lesson 2 - Navigate Throught the Maps
+- [Play Game - Maze Game](https://www.mathsisfun.com/games/mazes.html)
+- [Assets Game](https://drive.google.com/drive/folders/1iTDa8r-Qams6l3X2c5HT2SQLBBRkkF99)

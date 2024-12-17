@@ -1,6 +1,6 @@
 ### Lesson 1 - Intro to Construct and Jumping Platform
 
-### *`Explanation:`*
+#### *`Explanation:`*
 - **`Construct 3`** = adalah sebuah website khusus untuk membuat game 2D seperti shooter atau platformer. 
 - **`Layout`** = tata letak object dalam game.
   - Kumpulan object ini dapat membentuk sebuah level, menu atau halaman judul.
@@ -13,7 +13,7 @@
 - **`Sine`** = adalah behavior yang mengatur properties object (posisi, ukuran, sudut) dalam bentuk gelombang. 
 - **`Rotate`** = adalah behavior yang membuat sebuah object berputar.  
 
-### *`References:`*
+#### *`References:`*
 - [*editor construct - platform create game*](https://editor.construct.net/)
 - [Assets Game](https://drive.google.com/drive/folders/1QhIt0y1W65p1kXXo-X6BMCvQfZRk_4DL)
 - [Play Game - Carrot Quest](https://www.thelogicgame.com/games/carrotpush/index.html)
