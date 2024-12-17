@@ -8,3 +8,6 @@
 #### Lesson 2 - Navigate Throught the Maps
 - [Play Game - Maze Game](https://www.mathsisfun.com/games/mazes.html)
 - [Assets Game](https://drive.google.com/drive/folders/1iTDa8r-Qams6l3X2c5HT2SQLBBRkkF99)
+
+#### Lesson 3 - Animate Inside Layout
+- [Assets Game](https://drive.google.com/drive/folders/1L9MrL6tO5zP8qW1aG7eS1JkHE6hG3q_d)
